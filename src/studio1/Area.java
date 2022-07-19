@@ -1,5 +1,4 @@
-package studios;
-import jdk.swing.interop.SwingInterOpUtils;
+package studio1;
 
 import java.util.Scanner;
 
